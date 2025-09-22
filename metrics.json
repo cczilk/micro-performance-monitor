@@ -1,0 +1,18 @@
+{
+  "cpu_usage": 7.20,
+  "memory_usage_kb": 7313896,
+  "network": {
+    "bytes_sent": 29878686,
+    "bytes_received": 955339838
+  },
+  "disk": {
+    "bytes_read": 0,
+    "bytes_written": 0
+  },
+  "processes": 97940,
+  "load_average": {
+    "1min": 1.42,
+    "5min": 1.84,
+    "15min": 1.84
+  }
+}
