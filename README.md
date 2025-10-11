@@ -19,3 +19,10 @@ key metrics are all recorded by reading directly from the '/proc' filesystem, so
 ```bash
 make
 ./microservice_demo
+```
+### Frontend (React)
+```bash
+cd monitoring-dashboard
+npm install
+npm start
+```
