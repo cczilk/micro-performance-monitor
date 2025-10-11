@@ -2,6 +2,8 @@
 Lightweight C++ performance monitoring tool used to track microservice metrics.
 key metrics are all recorded by reading directly from the '/proc' filesystem, so the tool is only compatible with Linux systems
 
+<img width="1740" height="874" alt="image" src="https://github.com/user-attachments/assets/8435ebfe-78af-4acc-adca-cf00eb9d66a0" />
+
 ---
 
 ## Features
